@@ -1,4 +1,10 @@
-# 🧠 Git – Boas Práticas da Equipe
+# Clonevoz
+
+Clonar voz com arquivo de audio e conversor de texto para audio.
+
+Só funciona com arquivos .wav
+
+## 🧠 Git – Boas Práticas da Equipe
 
 Bem-vindo(a)! Este repositório segue um conjunto de boas práticas para garantir organização, qualidade e colaboração fluida entre os membros da equipe.
 
@@ -75,6 +81,3 @@ Convenção: Use uma convenção como o Conventional Commits para padronizar o h
 
 Revisão: Sempre revise a mensagem antes de dar o commit.
 
-## Clonevoz
-
-Clonar vor com arquivo de audio e conversor de texto para audio.
