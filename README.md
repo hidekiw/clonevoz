@@ -7,9 +7,13 @@ Só funciona com arquivos .wav
 ## Instalação
 
 git clone https://github.com/hidekiw/clonevoz
+
 cd clonevoz
+
 pip install -r requirements
+
 iniciar.bat
+
 http:\\127.0.0.1:8085\docs
 
 ## 🧠 Git – Boas Práticas da Equipe
