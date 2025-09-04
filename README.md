@@ -4,6 +4,14 @@ Clonar voz com arquivo de audio e conversor de texto para audio.
 
 Só funciona com arquivos .wav
 
+## Instalação
+
+git clone https://github.com/hidekiw/clonevoz
+cd clonevoz
+pip install -r requirements
+iniciar.bat
+http:\\127.0.0.1:8085\docs
+
 ## 🧠 Git – Boas Práticas da Equipe
 
 Bem-vindo(a)! Este repositório segue um conjunto de boas práticas para garantir organização, qualidade e colaboração fluida entre os membros da equipe.
