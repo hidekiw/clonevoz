@@ -14,7 +14,7 @@ pip install -r requirements
 
 iniciar.bat
 
-http:\\127.0.0.1:8085\docs
+http:\\\127.0.0.1:8085\docs
 
 ## 🧠 Git – Boas Práticas da Equipe
 
